@@ -10,6 +10,12 @@ un simple script que muestra los archivos compartidos de la maquina victima y lo
 
 ![1 nfs_copy](https://user-images.githubusercontent.com/67207446/145267615-45e17330-267b-4f52-b829-da78c93884ed.png)
 
-Instalacion y Uso
+# Instalacion y Uso
 
+git clone https://github.com/Anonimo501/nfs_copy.git
 
+cd nfs_copy
+
+chmod +x nfs_copy.sh
+
+./nfs_copy.sh
